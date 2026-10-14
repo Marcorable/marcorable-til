@@ -31,7 +31,7 @@ Daily Log에 삽입된 뷰에는 날짜가 비어 있는 항목도 나타납니�
 새 일일 파일은 다음 경로에 만듭니다.
 
 ```text
-YYYY/YYYY.MM/YYYY-MM-DD.md
+YYYY/MM/YYYY-MM-DD.md
 ```
 
 [`templates/daily-til.md`](../templates/daily-til.md)를 출발점으로 사용합니다.
